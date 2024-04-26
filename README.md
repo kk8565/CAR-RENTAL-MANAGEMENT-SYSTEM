@@ -1,1 +1,1 @@
-
+Created a Website on Car Rental Management System which contains features like login page, a car listing page, a car reservation page, and a car return page. My contributions to this project are database management and running the project on XAMPP
